@@ -12,17 +12,17 @@
 
 ### Tópicos 
 
-- [Descrição do projeto](#Descrição-do-projeto)
+- [Descrição do projeto](#descrição-do-projeto)
 
-- [Aplicação](#Aplicação)
+- [Aplicação](#aplicação)
 
-- [Ferramentas utilizadas](#Ferramentas-utilizadas)
+- [Ferramentas utilizadas](#ferramentas-utilizadas)
 
-- [Acesso ao projeto](#Acesso-ao-projeto)
+- [Acesso ao projeto](#acesso-ao-projeto)
 
-- [Objetivos do Projeto](#Objetivos-do-projeto)
+- [Objetivos do Projeto](#objetivos-do-projeto)
 
-- [Desenvolvedores](#Desenvolvedores)
+- [Desenvolvedores](#desenvolvedores)
 
 ## 📃 Descrição do projeto 
 
@@ -72,4 +72,5 @@ Você pode Você pode [acessar o código fonte do projeto](https://github.com/Ma
 
 ## 🌟 Desenvolvedores
 
-| [<img src="https://avatars.githubusercontent.com/u/133241955?v=4" width=115><br><sub>Mateus Teixeira</sub>](https://github.com/MateusGT11)
+[<img src="https://avatars.githubusercontent.com/u/133241955?v=4" width=115><br><sub>Mateus Teixeira</sub>](https://github.com/MateusGT11)
+
