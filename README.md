@@ -5,7 +5,7 @@
 <hr>
 
 <p align="center">
-   <img src="http://img.shields.io/static/v1?label=STATUS&message=FINALIZADO&color=RED&style=for-the-badge" #vitrinedev/>
+   <img src="http://img.shields.io/static/v1?label=STATUS&message=FINALIZADO&color=GREEN&style=for-the-badge" #vitrinedev/>
 </p>
 
 <hr>
@@ -38,7 +38,8 @@ Este projeto foi idealizado com o intuito de testar meus conhecimentos em Desenv
 <div align="center">
 <strong>- Imagens do projeto </strong>
   <br>
-  <img src="http://img.shields.io/static/v1?label=STATUS&message=EM%20BREVE&color=RED&style=for-the-badge" #vitrinedev/>
+  <img alt="Static Badge" src="https://img.shields.io/badge/EM%20BREVE-blue">
+
 </div>
 
 
